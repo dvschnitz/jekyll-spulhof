@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lage
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+description: Nur etwa 60 Autokilometer von der Stadt Salzburg entfernt, liegt der Spulhof in absolut ruhiger Lage am idyllischen Radochsberg in Abtenau. In unmittelbarer Nähe gibt es zahlreiche Möglichkeiten zum Wandern, Radfahren, Skifahren, Rodeln oder Schwimmen. Nur 25 Kilometer mit dem Auto entfernt liegt Halstatt und weitere Perlen im Salzkammergut..
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02

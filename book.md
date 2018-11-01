@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buchen
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+description: Hier können Sie ein Zimmer buchen.
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -60,7 +60,6 @@ sitemap:
       <div class="3u$ 12u$(xsmall)">
 				<input type="text" name="demo-name" id="town" value="" placeholder="Ort" />
 			</div>
-
       <div class="12u$">Ankunft</div>
       <div class="3u 12u$(xsmall)">
 				<input type="text" name="demo-name" id="number" value="" placeholder="Tag" />
@@ -90,7 +89,6 @@ sitemap:
       <div class="3u$ 12u$(xsmall)">
 				<input type="text" name="demo-name" id="town" value="" placeholder="Nächte" />
 			</div>
-
 			<!-- Break -->
 			<div class="6u 12u$(small)">
 				<input type="checkbox" id="demo-copy" name="demo-copy">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zimmer und Preise
-description: Zimmerbeschreibung und Preisaufstellung
+description: Zimmerbeschreibung und Preisaufstellung.
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
