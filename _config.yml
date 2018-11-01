@@ -1,11 +1,11 @@
 # Site
-title:              Massively
+title:              Spulhof
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-background_image:   /images/bg.jpg
+background_image:   /images/bg_green.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
 
@@ -38,15 +38,14 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
 facebook:           default
 instagram:          default
-github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+name:               Familie Wagenhofer
+location:           Wagner 9 5441 Abtenau
+phone:              0043 664 8901297
+email:              spulhof@gmx.at
 
 # Gems
 gems:
