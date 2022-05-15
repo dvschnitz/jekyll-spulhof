@@ -1,7 +1,7 @@
 # Site
 title:              Spulhof
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'Urlaub am Bauernhof'
+description:        "Suchen Sie für Ihren Urlaub Sonne, Erholung, Entspannung und Ruhe, dann kommen Sie zu uns."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
