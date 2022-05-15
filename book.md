@@ -2,6 +2,7 @@
 layout: page
 title: Buchen
 description: Hier können Sie ein Zimmer buchen.
+hideFooter: true
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
