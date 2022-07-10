@@ -70,3 +70,11 @@ Credits:
 		Skel (skel.io)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 ```
+
+# Open Tasks
+[] Fix Form
+[] Mention Pond on Home
+[] Distinct between the two Appartment Types "Dachsteinblick" und "Seeblick"
+
+# Backlog
+[] Embed Booking Calendar
