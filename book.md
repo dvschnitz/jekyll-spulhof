@@ -10,7 +10,11 @@ sitemap:
 ---
 ## Ferienwohnung buchen
 
+  <div class="row 50% uniform">
+    <div class="12u"><span class="image fit"><img src="{{ "/images/130.jpg" | absolute_url }}" alt="Auspannen am Teich" /></span></div>
+  </div>
 
+<!-- TODO Fix Form -->
 <form method="post" action="#" class="alt">
 		<div class="row uniform">
 			<div class="6u 12u$(xsmall)">
