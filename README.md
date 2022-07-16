@@ -71,6 +71,11 @@ Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 ```
 
+# Compress imgages
+Multiple Files: `squoosh-cli --mozjpeg '{"quality":70}' --resize '{"width": 1000, "method": "lanczos3" }' -d Squooshed ./`
+One File: `squoosh-cli --mozjpeg '{"quality":70}' --resize '{"width": 1000, "method": "lanczos3" }' -d Squooshed <Filename>`
+
+
 # Open Tasks
 [] Fix Form
 [] Mention Pond on Home
@@ -78,3 +83,17 @@ Credits:
 
 # Backlog
 [] Embed Booking Calendar
+
+# Content
+* 5km zum Schiegebiet Dachstein West
+* Langlaufloipe führt am Haus vorbei
+* Mountainbiketouren und Wanderungen können direkt von der Unterkunft aus gestartet werden
+* 50km Entfernung zur Stadt Salzburg
+
+Fotos Umgebung
+* Sommerrodelbahn
+* Wasserfälle
+* Abtenau Marktplatz
+* Schiegebiet Dachstein West
+* Raftin, etc.
+

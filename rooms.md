@@ -10,32 +10,52 @@ sitemap:
 ---
 ## Ferienwohnungen
 
-<!-- <span class="image left"><img src="{{ "/images/spulhof-abtenau-lammertal-7.jpg" | absolute_url }}" alt="" /></span> -->
-
 Wir vermieten zwei Ferienwohnungen für 2-6 Personen komplett ausgestattet mit Balkon am idyllischen Radochsberg in Abtenau!
+
+## Appartment Dachsteinblick
+
+Zwei Dreibettzimmer, Wohnküche, WC, Bad, Vorraum, Sat-TV, Radio und WLan. Herrlicher Ausblick auf den Dachstein.
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/fewo2.jpg" | absolute_url }}" alt="Wohnzimmer" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/fewo1.jpg" | absolute_url }}" alt="Ausblick" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/fewo4.jpg" | absolute_url }}" alt="Küche" /></span></div>
+    <div class="5u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/042.jpg" | absolute_url }}" alt="Wohnzimmer" /></span></div>
+    <div class="7u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/045.jpg" | absolute_url }}" alt="Ausblick" /></span></div>
+    <div class="7u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/048.jpg" | absolute_url }}" alt="Küche" /></span></div>
   </div>
   <div class="row 50% uniform">
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/fewo7.jpg" | absolute_url }}" alt="Zweibettzimmer" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/fewo5.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/fewo6.jpg" | absolute_url }}" alt="Badezimmer" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/060.jpg" | absolute_url }}" alt="Zweibettzimmer" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/061.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
   </div>
 
   <div class="row 50% uniform">
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/173.jpg" | absolute_url }}" alt="Küche" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/183.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/065.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/062.jpg" | absolute_url }}" alt="Badezimmer" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/071.jpg" | absolute_url }}" alt="Küche" /></span></div>
   </div>
 </div>
 
-Die Appartements bestehen aus 2 Dreibettzimmer, Wohnküche, WC, Bad, Vorraum sowie Sat-TV, Radio und Möglichkeit zu Internetzugang. Die Zimmer bieten einen herrlichen Ausblicke in die Natur, auf das Tennengebirge und den Dachstein.
+## Appartment Seeblick
 
-### Preise
+Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohnküche, WC, Bad, Vorraum, Sat-TV, Radio und WLan. Herrlicher Ausblick auf den großen Schwimmteich und das Tennengebirge.
+
+<div class="box alt">
+  <div class="row 50% uniform">
+    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/032.jpg" | absolute_url }}" alt="Wohnzimmer" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/171.jpg" | absolute_url }}" alt="Ausblick" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/184.jpg" | absolute_url }}" alt="Küche" /></span></div>
+  </div>
+  <div class="row 50% uniform">
+    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/187.jpg" | absolute_url }}" alt="Zweibettzimmer" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/185.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
+  </div>
+
+  <div class="row 50% uniform">
+    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/173.jpg" | absolute_url }}" alt="Küche" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/176.jpg" | absolute_url }}" alt="Küche" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/034.jpg" | absolute_url }}" alt="Badezimmer" /></span></div>
+  </div>
+</div>
+
+## Preise
 <table style="width:100%">
   <tr>
     <td></td>
