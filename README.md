@@ -78,8 +78,8 @@ One File: `squoosh-cli --mozjpeg '{"quality":70}' --resize '{"width": 1000, "met
 
 # Open Tasks
 [] Fix Form
-[] Mention Pond on Home
-[] Distinct between the two Appartment Types "Dachsteinblick" und "Seeblick"
+[x] Mention Pond on Home
+[x] Distinct between the two Appartment Types "Dachsteinblick" und "Seeblick"
 
 # Backlog
 [] Embed Booking Calendar
