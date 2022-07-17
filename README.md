@@ -80,6 +80,7 @@ One File: `squoosh-cli --mozjpeg '{"quality":70}' --resize '{"width": 1000, "met
 [] Fix Form
 [x] Mention Pond on Home
 [x] Distinct between the two Appartment Types "Dachsteinblick" und "Seeblick"
+[] Favicon
 
 # Backlog
 [] Embed Booking Calendar
