@@ -18,12 +18,6 @@ Zwei Dreibettzimmer, Wohnküche, WC, Bad, Vorraum, Sat-TV, Radio und WLan. Herrl
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="5u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/042.jpg" | absolute_url }}" alt="
-    Badezimmer" /></span></div>
-    <div class="7u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/045.jpg" | absolute_url }}" alt="Wohnküche" /></span></div>
-    <div class="7u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/048.jpg" | absolute_url }}" alt="Gartenblick" /></span></div>
-  </div>
-  <div class="row 50% uniform">
     <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/060.jpg" | absolute_url }}" alt="Wohnzimmer mit Tisch" /></span></div>
     <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/061.jpg" | absolute_url }}" alt="Wohnzimmer und Küche" /></span></div>
   </div>
@@ -31,6 +25,12 @@ Zwei Dreibettzimmer, Wohnküche, WC, Bad, Vorraum, Sat-TV, Radio und WLan. Herrl
   <div class="row 50% uniform">
     <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/062.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
     <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/071.jpg" | absolute_url }}" alt="Ausblick Schlafzimmer Dachstein" /></span></div>
+  </div>
+  <div class="row 50% uniform">
+    <div class="5u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/042.jpg" | absolute_url }}" alt="
+    Badezimmer" /></span></div>
+    <div class="7u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/045.jpg" | absolute_url }}" alt="Wohnküche" /></span></div>
+    <div class="7u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/048.jpg" | absolute_url }}" alt="Gartenblick" /></span></div>
   </div>
 </div>
 

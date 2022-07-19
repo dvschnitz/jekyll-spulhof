@@ -16,10 +16,10 @@ sitemap:
 
 <!-- TODO Fix Form -->
 <form method="post" action="#" class="alt">
-		<div class="row uniform">
-			<div class="6u 12u$(xsmall)">
-				<input type="text" name="demo-name" id="name" value="" placeholder="Name" />
-			</div>
+	<div class="row uniform">
+		<div class="6u 12u$(xsmall)">
+			<input type="text" name="demo-name" id="name" value="" placeholder="Name" />
+		</div>
       <div class="6u$ 12u$(xsmall)">
 				<input type="email" name="demo-email" id="email" value="" placeholder="Email" />
 			</div>
@@ -65,10 +65,10 @@ sitemap:
       <div class="3u$ 12u$(xsmall)">
 				<input type="text" name="demo-name" id="town" value="" placeholder="Ort" />
 			</div>
-      <div class="12u$">Ankunft</div>
+      <h3 class="12u$" style="margin-block-end: 0;">Ankunft - Mindestens 6 Nächte</h3>
       <div class="3u 12u$(xsmall)">
-				<input type="text" name="demo-name" id="number" value="" placeholder="Tag" />
-			</div>
+				<input type="text" name="demo-name" id="number" value="" placeholder="Tag der Ankunft" />
+		</div>
       <div class="3u 12u$(xsmall)">
 				<div class="select-wrapper">
 					<select name="demo-category" id="demo-category">
@@ -88,27 +88,22 @@ sitemap:
 					</select>
 				</div>
 			</div>
-      <div class="3u 12u$(xsmall)">
+      	<div class="3u 12u$(xsmall)">
 				<input type="text" name="demo-name" id="town" value="" placeholder="Jahr" />
 			</div>
-      <div class="3u$ 12u$(xsmall)">
+      	<div class="3u$ 12u$(xsmall)">
 				<input type="text" name="demo-name" id="town" value="" placeholder="Nächte" />
-			</div>
-			<!-- Break -->
-			<div class="6u 12u$(small)">
-				<input type="checkbox" id="demo-copy" name="demo-copy">
-				<label for="demo-copy">Ich benötige einen Leihwagen</label>
-			</div>
-			<!-- Break -->
-			<div class="12u$">
-				<textarea name="demo-message" id="demo-message" placeholder="Anmerkung" rows="6"></textarea>
-			</div>
-			<!-- Break -->
-			<div class="12u$">
-				<ul class="actions">
-					<li><input type="submit" value="Anfrage absenden" class="special" /></li>
-					<li><input type="reset" value="Zurücksetzen" /></li>
-				</ul>
-			</div>
 		</div>
-	</form>
+		<!-- Break -->
+		<div class="12u$">
+			<textarea name="demo-message" id="demo-message" placeholder="Anmerkung" rows="6"></textarea>
+		</div>
+		<!-- Break -->
+		<div class="12u$">
+			<ul class="actions">
+				<li><input type="submit" value="Anfrage absenden" class="special" /></li>
+				<li><input type="reset" value="Zurücksetzen" /></li>
+			</ul>
+		</div>
+	</div>
+</form>
