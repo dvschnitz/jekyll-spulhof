@@ -22,7 +22,7 @@ Nur etwa 50 Autokilometer von der Stadt Salzburg entfernt, liegt der Spulhof in 
 
 * Nur 5km zum Schiegebiet [Dachstein West](https://www.dachstein.at/)
 * Eine [Langlaufloipe](https://www.bergfex.at/salzburg/langlaufen/abtenau/loipen/260/) führt am Haus vorbei
-* Rodeln im Sommer wie im Winter am nur 8km entfernten [Karkogel](https://karkogel.abtenau-info.at/) 
+* Rodeln im Sommer wie im Winter am nur 8km entfernten [Karkogel](https://karkogel.abtenau-info.at/)
 * Mountainbiketouren und Wanderungen können direkt von der Unterkunft aus gestartet werden
 
 <div class="box alt" style="margin-top:16px">
@@ -50,16 +50,22 @@ Nur etwa 50 Autokilometer von der Stadt Salzburg entfernt, liegt der Spulhof in 
     </div>
   </div>
 
-  
+
   <div class="row 50% uniform">
     <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Bergbahnen.jpg" | absolute_url }}" alt="Abtenauer Bergbahnen" /></span></div>
     <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Dachserfall.jpg" | absolute_url }}" alt="Dachserfall Abtenau" /></span></div>
   </div>
 
-    
+
   <div class="row 50% uniform">
     <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Heimatabend.jpg" | absolute_url }}" alt="Heimatabend Marktplatz Abtenau" /></span></div>
     <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Sommerrodelbahn.jpg" | absolute_url }}" alt="Sommerrodelbahn" /></span></div>
+  </div>
+
+
+  <div class="row 50% uniform">
+    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Abtenau_Egelsee.jpg" | absolute_url }}" alt="Abtenau Egelsee" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Pferdekutsche.jpg" | absolute_url }}" alt="Sommerrodelbahn" /></span></div>
   </div>
 </div>
 
