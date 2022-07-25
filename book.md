@@ -11,7 +11,7 @@ sitemap:
 ## Ferienwohnung buchen
 
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="{{ "/images/130.jpg" | absolute_url }}" alt="Auspannen am Teich" /></span></div>
+    <div class="12u"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/130.jpg" | absolute_url }}" alt="Auspannen am Teich" /></span></div>
   </div>
 
 <!-- TODO Fix Form -->

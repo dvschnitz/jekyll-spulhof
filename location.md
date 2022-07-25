@@ -27,16 +27,16 @@ Nur etwa 50 Autokilometer von der Stadt Salzburg entfernt, liegt der Spulhof in 
 
 <div class="box alt" style="margin-top:16px">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="{{ "/images/spulhof-abtenau-lammertal-7.jpg" | absolute_url }}" alt="Spulhof im Winter" /></span></div>
+    <div class="12u"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/spulhof-abtenau-lammertal-7.jpg" | absolute_url }}" alt="Spulhof im Winter" /></span></div>
   </div>
   <div class="row 50% uniform">
-     <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/142.jpg" | absolute_url }}" alt="Spulhof Schwimmteich und Abendstimmung" /></span></div>
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/096.jpg" | absolute_url }}" alt="Stall Spulhof mit Katze" /></span></div>
+     <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/142.jpg" | absolute_url }}" alt="Spulhof Schwimmteich und Abendstimmung" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/096.jpg" | absolute_url }}" alt="Stall Spulhof mit Katze" /></span></div>
   </div>
 
   <div class="row 50% uniform">
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/158.jpg" | absolute_url }}" alt="Teich Spulhof in Abtenau" /></span></div>
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/058.jpg" | absolute_url }}" alt="Spulhof Obstgarten" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/158.jpg" | absolute_url }}" alt="Teich Spulhof in Abtenau" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/058.jpg" | absolute_url }}" alt="Spulhof Obstgarten" /></span></div>
   </div>
 </div>
 
@@ -52,20 +52,20 @@ Nur etwa 50 Autokilometer von der Stadt Salzburg entfernt, liegt der Spulhof in 
 
 
   <div class="row 50% uniform">
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Bergbahnen.jpg" | absolute_url }}" alt="Abtenauer Bergbahnen" /></span></div>
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Dachserfall.jpg" | absolute_url }}" alt="Dachserfall Abtenau" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/Bergbahnen.jpg" | absolute_url }}" alt="Abtenauer Bergbahnen" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/Dachserfall.jpg" | absolute_url }}" alt="Dachserfall Abtenau" /></span></div>
   </div>
 
 
   <div class="row 50% uniform">
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Heimatabend.jpg" | absolute_url }}" alt="Heimatabend Marktplatz Abtenau" /></span></div>
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Sommerrodelbahn.jpg" | absolute_url }}" alt="Sommerrodelbahn" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/Heimatabend.jpg" | absolute_url }}" alt="Heimatabend Marktplatz Abtenau" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/Sommerrodelbahn.jpg" | absolute_url }}" alt="Sommerrodelbahn" /></span></div>
   </div>
 
 
   <div class="row 50% uniform">
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Abtenau_Egelsee.jpg" | absolute_url }}" alt="Abtenau Egelsee" /></span></div>
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/Pferdekutsche.jpg" | absolute_url }}" alt="Sommerrodelbahn" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" onclick="img_box(this)" src="{{ "/images/Abtenau_Egelsee.jpg" | absolute_url }}" alt="Abtenau Egelsee" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/Pferdekutsche.jpg" | absolute_url }}" alt="Sommerrodelbahn" /></span></div>
   </div>
 </div>
 

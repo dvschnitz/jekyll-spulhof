@@ -18,19 +18,19 @@ Zwei Dreibettzimmer, Wohnküche, WC, Bad, Vorraum, Sat-TV, Radio und WLan. Herrl
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/060.jpg" | absolute_url }}" alt="Wohnzimmer mit Tisch" /></span></div>
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/061.jpg" | absolute_url }}" alt="Wohnzimmer und Küche" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/dachsteinblick/060.jpg" | absolute_url }}" alt="Wohnzimmer mit Tisch" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/dachsteinblick/061.jpg" | absolute_url }}" alt="Wohnzimmer und Küche" /></span></div>
   </div>
 
   <div class="row 50% uniform">
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/062.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/071.jpg" | absolute_url }}" alt="Ausblick Schlafzimmer Dachstein" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/dachsteinblick/062.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/dachsteinblick/071.jpg" | absolute_url }}" alt="Ausblick Schlafzimmer Dachstein" /></span></div>
   </div>
   <div class="row 50% uniform">
-    <div class="5u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/042.jpg" | absolute_url }}" alt="
+    <div class="5u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/dachsteinblick/042.jpg" | absolute_url }}" alt="
     Badezimmer" /></span></div>
-    <div class="7u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/045.jpg" | absolute_url }}" alt="Wohnküche" /></span></div>
-    <div class="7u 12u$(small)"><span class="image fit"><img src="{{ "/images/dachsteinblick/048.jpg" | absolute_url }}" alt="Gartenblick" /></span></div>
+    <div class="7u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/dachsteinblick/045.jpg" | absolute_url }}" alt="Wohnküche" /></span></div>
+    <div class="7u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/dachsteinblick/048.jpg" | absolute_url }}" alt="Gartenblick" /></span></div>
   </div>
 </div>
 
@@ -40,19 +40,19 @@ Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohn
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/032.jpg" | absolute_url }}" alt="Blick auf den Badeteich" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/171.jpg" | absolute_url }}" alt="Wohnküche" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/184.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/seeblick/032.jpg" | absolute_url }}" alt="Blick auf den Badeteich" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/seeblick/171.jpg" | absolute_url }}" alt="Wohnküche" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/seeblick/184.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
   </div>
   <div class="row 50% uniform">
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/187.jpg" | absolute_url }}" alt="Zweibettzimmer" /></span></div>
-    <div class="6u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/185.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/seeblick/187.jpg" | absolute_url }}" alt="Zweibettzimmer" /></span></div>
+    <div class="6u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/seeblick/185.jpg" | absolute_url }}" alt="Schlafzimmer" /></span></div>
   </div>
 
   <div class="row 50% uniform">
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/173.jpg" | absolute_url }}" alt="Küche" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/176.jpg" | absolute_url }}" alt="Küche" /></span></div>
-    <div class="4u 12u$(small)"><span class="image fit"><img src="{{ "/images/seeblick/034.jpg" | absolute_url }}" alt="Seeblick" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/seeblick/173.jpg" | absolute_url }}" alt="Küche" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/seeblick/176.jpg" | absolute_url }}" alt="Küche" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img onclick="img_box(this)" src="{{ "/images/seeblick/034.jpg" | absolute_url }}" alt="Seeblick" /></span></div>
   </div>
 </div>
 
