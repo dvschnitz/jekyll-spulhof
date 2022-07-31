@@ -77,17 +77,17 @@ One File: `squoosh-cli --mozjpeg '{"quality":70}' --resize '{"width": 1000, "met
 
 
 # Open Tasks
-[] Fix Form
+[x] Fix Form
 [x] Mention Pond on Home
 [x] Distinct between the two Appartment Types "Dachsteinblick" und "Seeblick"
-[] Favicon
+[x] Favicon
 [x] Statt Ferienwohnung Seeblick -> Tennengebirgsblick
 [x] Lage Seite Verlinkungen auf die Seite, Dachstein West, Karkogel, Abtenau-Infos
 [x] Leihwagen weg
 [x] 7 Tage auch auf Buchungsseite
 [x] Bad Foto nach unten schieben
-[] Lage unten noch ein paar Fotos hinzufügen
-[] Fullscreen Bilder
+[x] Lage unten noch ein paar Fotos hinzufügen
+[x] Fullscreen Bilder
 
 # Backlog
 [] Embed Booking Calendar
