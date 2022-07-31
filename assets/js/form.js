@@ -42,8 +42,13 @@ getTextForMessage = function() {
             return null;
         }
 
-        output += formElements[i].name + ": " + formElements[i].value + "%0D%0A";
+        output += formElements[i].type === 'button' || formElements[i].type === 'reset'
+            ? '' 
+            : formElements[i].name + ": " + formElements[i].value + "%0D%0A";
     }
+    console.log(
+        'output', output
+    );
 
     return output;
 }
