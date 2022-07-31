@@ -308,4 +308,15 @@
 		}
 	}
 
+	#button-send-sms {
+		display: none;
+		@media screen and (max-width: 600px) and (orientation: portrait) {
+		  display: inline-block;
+		}
+	
+		@media screen and (max-height: 600px) and (orientation: landscape) {
+		  display: inline-block;
+		}
+	}
+
 	@include color-form;
