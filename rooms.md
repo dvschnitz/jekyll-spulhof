@@ -34,7 +34,7 @@ Zwei Dreibettzimmer, Wohnküche, WC, Bad, Vorraum, Sat-TV, Radio und WLan. Herrl
   </div>
 </div>
 
-## Appartment Seeblick
+## Appartment Tennengebirgsblick
 
 Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohnküche, WC, Bad, Vorraum, Sat-TV, Radio und WLan. Herrlicher Ausblick auf den großen Schwimmteich und das Tennengebirge.
 
