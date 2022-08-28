@@ -34,7 +34,7 @@ Zwei Dreibettzimmer, Wohnküche, WC, Bad, Vorraum, Sat-TV, Radio und WLan. Herrl
   </div>
 </div>
 
-## Appartment Tennengebirgsblick
+## Ferienwohnung Tennengebirge
 
 Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohnküche, WC, Bad, Vorraum, Sat-TV, Radio und WLan. Herrlicher Ausblick auf den großen Schwimmteich und das Tennengebirge.
 
@@ -72,38 +72,38 @@ Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohn
   </tr>
   <tr>
     <th>2 Per&shy;sonen</th>
-    <td>€ 60,-</td>
-    <td>€ 57,-</td>
     <td>€ 65,-</td>
     <td>€ 62,-</td>
+    <td>€ 70,-</td>
+    <td>€ 67,-</td>
   </tr>
   <tr>
     <th>3 Per&shy;sonen</th>
-    <td>€ 65,-</td>
-    <td>€ 62,-</td>
-    <td>€ 75,-</td>
-    <td>€ 72,-</td>
+    <td>€ 70,-</td>
+    <td>€ 67,-</td>
+    <td>€ 80,-</td>
+    <td>€ 77,-</td>
   </tr>
   <tr>
     <th>4 Per&shy;sonen</th>
-    <td>€ 75,-</td>
-    <td>€ 72,-</td>
-    <td>€ 85,-</td>
-    <td>€ 82,-</td>
-  </tr>
-  <tr>
-    <th>5 Per&shy;sonen</th>
     <td>€ 80,-</td>
     <td>€ 77,-</td>
     <td>€ 90,-</td>
     <td>€ 87,-</td>
   </tr>
   <tr>
-    <th>6 Per&shy;sonen</th>
+    <th>5 Per&shy;sonen</th>
     <td>€ 85,-</td>
     <td>€ 82,-</td>
     <td>€ 95,-</td>
     <td>€ 92,-</td>
+  </tr>
+  <tr>
+    <th>6 Per&shy;sonen</th>
+    <td>€ 90,-</td>
+    <td>€ 87,-</td>
+    <td>€ 100,-</td>
+    <td>€ 97,-</td>
   </tr>
 </table>
 

@@ -18,7 +18,7 @@ sitemap:
 
 <iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.401418626308443%2C47.58766157892968%2C13.404095470905306%2C47.58990836637709&amp;layer=mapnik&amp;marker=47.58878498470957%2C13.402757048606873" style="border: 0 solid black"></iframe>
 
-<a href="https://goo.gl/maps/bDktiFMsm5fK9gbz8" target="_blank">Auf Google Maps anzeigen</a>
+<a href="https://goo.gl/maps/aXfcH28Ae9zo4JJUA" target="_blank">Auf Google Maps anzeigen</a>
 
 Nur etwa 50 Autokilometer von der Stadt Salzburg entfernt, liegt der Spulhof in absolut ruhiger Lage am idyllischen Radochsberg in [Abtenau](https://www.abtenau.at/). In unmittelbarer Nähe gibt es zahlreiche Möglichkeiten zum Wandern, Langlaufen, Radfahren, Skifahren, Rodeln oder Schwimmen. Nur 25 Kilometer mit dem Auto entfernt liegt Halstatt und weitere Perlen im Salzkammergut.
 
