@@ -72,38 +72,38 @@ Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohn
   </tr>
   <tr>
     <th>2 Per&shy;sonen</th>
-    <td>€ 70,-</td>
-    <td>€ 67,-</td>
     <td>€ 75,-</td>
     <td>€ 72,-</td>
+    <td>€ 80,-</td>
+    <td>€ 77,-</td>
   </tr>
   <tr>
     <th>3 Per&shy;sonen</th>
-    <td>€ 75,-</td>
-    <td>€ 72,-</td>
-    <td>€ 85,-</td>
-    <td>€ 82,-</td>
+    <td>€ 80,-</td>
+    <td>€ 77,-</td>
+    <td>€ 91,-</td>
+    <td>€ 88,-</td>
   </tr>
   <tr>
     <th>4 Per&shy;sonen</th>
-    <td>€ 85,-</td>
-    <td>€ 82,-</td>
-    <td>€ 95,-</td>
-    <td>€ 92,-</td>
+    <td>€ 91,-</td>
+    <td>€ 88,-</td>
+    <td>€ 101,-</td>
+    <td>€ 98,-</td>
   </tr>
   <tr>
     <th>5 Per&shy;sonen</th>
-    <td>€ 90,-</td>
-    <td>€ 87,-</td>
-    <td>€ 100,-</td>
-    <td>€ 97,-</td>
+    <td>€ 96,-</td>
+    <td>€ 93,-</td>
+    <td>€ 107,-</td>
+    <td>€ 104,-</td>
   </tr>
   <tr>
     <th>6 Per&shy;sonen</th>
-    <td>€ 95,-</td>
-    <td>€ 92,-</td>
-    <td>€ 105,-</td>
     <td>€ 102,-</td>
+    <td>€ 99,-</td>
+    <td>€ 112,-</td>
+    <td>€ 109,-</td>
   </tr>
 </table>
 
