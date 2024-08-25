@@ -57,7 +57,7 @@ Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohn
 </div>
 
 ## Preise
-<table style="width:100%">
+<table style="width:100%" class="rooms-price-table">
   <tr>
     <td></td>
     <th colspan="2" style="text-align: center">Sommer</th>
@@ -108,6 +108,6 @@ Ein Zimmer mit Doppelbett und ein Zweibettzimmer mit getrennten Betten. Mit Wohn
 </table>
 
 <p>
-  Preise inkl. Strom, Heizung, WLAN und Bettwäsche, excl. Endreinigung €70,-.
+  Preise inkl. Strom, Heizung, WLAN und Bettwäsche, excl. Endreinigung €80,-.
   <br>Preise exkl. Ortstaxe ab 15 Jahren € 2,-. Mindestbuchungsdauer 1 Woche.
 </p>
